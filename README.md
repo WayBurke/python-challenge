@@ -6,13 +6,13 @@ This project used Python script to analyze records of a company using real-world
 
 
 ## FILES INCLUDED
-####For PyBank:
-* [PyBank main.py file](python-challenge//PyBank/main.py) - Python code used to analyze the Budget Data
+**For PyBank:**
+* [PyBank main.py file](/PyBank/main.py) - Python code used to analyze the Budget Data
 
-* [PyBank Output file](python-challenge//PyBank/analysis/PyBank_Output.txt) - Text file containing the analysis of PyBank (i.e. same output as the terminal).
+* [PyBank Output file](/PyBank/analysis/PyBank_Output.txt) - Text file containing the analysis of PyBank (i.e. same output as the terminal).
 
 
-####For PyPoll:
-* [PyPoll main.py file](python-challenge//PyPoll/main.py) -  Python code used to analyze the Election Data
+**For PyPoll:**
+* [PyPoll main.py file](PyPoll/main.py) -  Python code used to analyze the Election Data
 
-* [PyPoll Output file](python-challenge//PyPoll/analysis/PyPoll_Output.txt) - Text file containing the analysis of PyPoll (i.e. same output as the terminal).
+* [PyPoll Output file](PyPoll/analysis/PyPoll_Output.txt) - Text file containing the analysis of PyPoll (i.e. same output as the terminal).
